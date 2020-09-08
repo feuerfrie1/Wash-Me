@@ -1,0 +1,16 @@
+.social__subscribe-text {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #F4C534;
+    padding: 1em 6em;
+    text-transform: uppercase;
+}
+
+.social__subscribe-text:hover {
+    transition: .7s;
+    font-weight: 500;
+    background-color: #F4C534;
+    color: #000;
+    border: 2px solid #000;
+}

@@ -65,3 +65,6 @@
 @import url(../blocks/popup/__close_wash/popup__close_wash.css);
 @import url(../blocks/popup/__container_wash/popup__container_wash.css);
 @import url(../blocks/popup/__table/popup__table.css);
+@import url(../blocks/header/__nav-item/header__nav-item.css);
+@import url(../blocks/header/__instagram-text/header__instagram-text.css);
+@import url(../blocks/social/__subscribe-text/social__subscribe-text.css);

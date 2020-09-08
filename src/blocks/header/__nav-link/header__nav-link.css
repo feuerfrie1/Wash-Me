@@ -5,6 +5,22 @@
     line-height: 37px;
     color: #fff;
     text-decoration: none;
-    padding-bottom: 75px;
+    margin-bottom: 75px;
     text-transform: none;
+    position: relative;
+}
+
+.header__nav-link::before {
+    content: '';
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background-color: #F4C534;
+    transition: 0.2s;
+}
+
+.header__nav-link:hover::before {
+    width: 100%;
 }

@@ -9,6 +9,6 @@
     grid-row: 1/2;
     margin: 0;
     height: 80px;
-    width: 494px;
+    width: max-content;
     margin-bottom: 20%;
 }

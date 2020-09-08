@@ -6,16 +6,16 @@ function PopupNavigation(props) {
       <div className="popup__container">
       <nav className="header__nav">
             <ul className="header__nav-links">
-                <li className="header__nav-link">
+                <li className="header__nav-item">
                 <a href="#main" className="header__nav-link">Главная</a>
                 </li>
-                <li className="header__nav-link">
+                <li className="header__nav-item">
                 <a href="#services" className="header__nav-link">Услуги</a>
                 </li>
-                <li className="header__nav-link">
+                <li className="header__nav-item">
                 <a href="#shares" className="header__nav-link">Акции</a>
                 </li>
-                <li className="header__nav-link">
+                <li className="header__nav-item">
                 <a href="#contacts" className="header__nav-link">Контакты</a>
                 </li>
             </ul>

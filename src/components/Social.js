@@ -13,8 +13,8 @@ function Social() {
           alt="WashMe Instagram"
         />
         <div className="social__link">
-          <p className="social__title">Наш instagram</p>
-          <button className="social__subscribe">подписаться</button>
+          <p className="social__title">Наш instagram</p>  
+          <a href="https://www.instagram.com/washme_moscow/" target="_blank" rel="noreferrer" className="social__subscribe-text">подписаться</a>
         </div>
       </div>
     </div>

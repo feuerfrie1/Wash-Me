@@ -15,3 +15,8 @@
     justify-content: space-around;
     align-items: center;
 }
+
+.popup__close_wash:hover {
+    opacity: .6;
+    transition: .3s;
+}

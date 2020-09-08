@@ -10,6 +10,6 @@
     margin: 0;
     text-transform: uppercase;
     height: 80px;
-    width: 275px;
+    width: max-content;
     align-self: center;
 }

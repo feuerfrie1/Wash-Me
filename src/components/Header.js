@@ -16,7 +16,7 @@ function Header(props) {
             <div className="header__left">
                 <img className="header__logo" src={logo} alt="Логотип" />
                 <h1 className="header__title">премиум<br />мойка</h1>
-                <button className="header__instagram">подписаться <img className="header__instagram-logo" src={inst} alt="Логотип" /></button>
+                <div className="header__instagram"><a href="https://www.instagram.com/washme_moscow/" target="_blank" rel="noferrer" className="header__instagram-text">подписаться</a><img className="header__instagram-logo" src={inst} alt="Логотип" /></div>
             </div>
             <div className="header__right">
             <div className="header__contacts">
