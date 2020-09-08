@@ -1,0 +1,6 @@
+.header__line {
+    background-color: #fff;
+    width: 1px;
+    height: 652px;
+    grid-column: 2/2;
+}

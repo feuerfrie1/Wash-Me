@@ -1,0 +1,17 @@
+.popup__close_navigation {
+    width: 58px;
+    height: 58px;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA6CAYAAADhu0ooAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE5SURBVHgB7dnhbcIwEIbhUydglI7QTcgmHaXdgBEYgVEY4eMQnGRFYJLYZ/ui75UifoBIHjkgnyLCGGOMMcYY6xaAg/RML+Bfjz9xTL//W4+rHkfp0RNpuWATpNUWO0O6YF8gi7BfUq+pFvaO1JezHn1/myJvV7V4ZTMruXk1i6uNHRKZXFwV7NBIqxQbAmltxYZCWmuxIZHWUmxopPUJuwuklcGedoO0Mtj9IK2F2NhI63m7dkXW3NS/DI8N+k/mI7n3YoT8v2ua6/Du2gpkXOwH5BFOI17TsHAzEBqLlTuekFhs3NaFwqJw7xoCi0ob9KGxqDyFDImF06g1FBbO8+QQWD3ZAQ3myQz2V1qlJ5s8kcl55tgLWj9Zm2HdRq0E2x6ZXMSEBvPk/XZF72ekjDHGGGOMsb7dAKeS3qWfNv6IAAAAAElFTkSuQmCC);
+    background-color: transparent;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}

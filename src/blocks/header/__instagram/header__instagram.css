@@ -1,0 +1,23 @@
+.header__instagram {
+    width: 200px;
+    height: 36px;
+    padding: 0;
+    border: 1px solid white;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 13px;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.header__instagram:hover {
+    opacity: .6;
+    transition: .3s;
+}

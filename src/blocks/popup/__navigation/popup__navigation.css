@@ -1,0 +1,11 @@
+.popup__navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 600px;
+    height: 990px;
+    background-image: url('../../../images/nav_background.png');
+    z-index: 2;
+    right: 0;
+}

@@ -1,0 +1,8 @@
+.services {
+    background-image: url('../../images/services_background.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    display: grid;
+}

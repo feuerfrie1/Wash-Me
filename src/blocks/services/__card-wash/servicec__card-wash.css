@@ -1,0 +1,7 @@
+.services__card-wash {
+    object-fit: cover;
+    height: 580px;
+    width: 245px;
+    grid-column-start: 1;
+    grid-row-start: 1;
+}

@@ -1,0 +1,6 @@
+.services__cards {
+    grid-column: 2/2;
+    justify-self: end;
+    display: flex;
+    align-self: flex-start;
+}

@@ -1,0 +1,17 @@
+.popup__wash {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 80vh;
+    height: 80vh;
+    background-color: #000;
+    z-index: 2;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(244,197,52,0.75);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(244,197,52,0.75);
+    box-shadow: 0px 0px 20px 0px rgba(244,197,52,0.75);
+}

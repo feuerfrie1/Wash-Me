@@ -1,0 +1,8 @@
+.footer {
+    background-image: url('../../images/footer_back.png');
+    height: 420px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    display: grid;
+}

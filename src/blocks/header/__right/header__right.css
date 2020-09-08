@@ -1,0 +1,6 @@
+.header__right {
+    display: grid;
+    padding-right: 100px;
+    justify-items: flex-end;
+    padding-top: 50px;
+}

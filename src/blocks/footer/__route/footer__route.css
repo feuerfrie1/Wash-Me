@@ -1,0 +1,19 @@
+.footer__route {
+    width: 275px;
+    height: 60px;
+    padding: 0;
+    border: 1px solid #F4C534;
+    font: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    line-height: 13px;
+    font-weight: 300;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.footer__route:hover {
+    opacity: .6;
+    transition: .3s;
+}

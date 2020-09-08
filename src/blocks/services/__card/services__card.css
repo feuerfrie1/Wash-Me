@@ -1,0 +1,8 @@
+.services__card {
+    color: #fff;
+    line-height: 13px;
+    font-weight: 300;
+    display: grid;
+    height: 580px;
+    position: relative;
+}

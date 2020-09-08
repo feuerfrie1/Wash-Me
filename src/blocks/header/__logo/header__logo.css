@@ -1,0 +1,7 @@
+.header__logo {
+    width: 124px;
+    height: 95px;
+    padding-top: 20px;
+    grid-column: 1/4;
+    grid-row: 1/2;
+}

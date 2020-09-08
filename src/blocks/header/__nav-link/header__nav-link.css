@@ -1,0 +1,10 @@
+.header__nav-link {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 37px;
+    color: #fff;
+    text-decoration: none;
+    padding-bottom: 75px;
+    text-transform: none;
+}

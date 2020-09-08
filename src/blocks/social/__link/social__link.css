@@ -1,0 +1,5 @@
+.social__link {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}

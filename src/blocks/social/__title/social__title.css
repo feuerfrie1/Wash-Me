@@ -1,0 +1,14 @@
+.social__title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 67px;
+    color: #fff;
+    border-bottom: 9px solid #F4C534;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    margin: 0;
+    height: 80px;
+    width: 494px;
+    margin-bottom: 20%;
+}

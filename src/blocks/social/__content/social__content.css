@@ -1,0 +1,9 @@
+.social__content {
+    display: grid;
+    grid-column: 1;
+    grid-row: 1/2;
+    align-items: center;
+    width: 90%;
+    grid-template-columns: 2fr;
+    margin: 0 auto;
+}

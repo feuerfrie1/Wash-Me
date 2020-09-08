@@ -1,0 +1,18 @@
+.header__nav {
+    grid-column: 2/2;
+    width: 70px;
+    height: 70px;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 13px;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
