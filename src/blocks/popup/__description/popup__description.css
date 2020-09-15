@@ -1,0 +1,12 @@
+.popup__description {
+    color: #ffff;
+}
+
+.popup__description td:nth-child(odd) {
+    color: #0AC4FF;
+}
+
+.popup__description td:nth-child(1) {
+    text-align: left;
+    color: #fff;
+}

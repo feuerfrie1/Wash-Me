@@ -1,0 +1,20 @@
+.popup__visit {
+    width: 400px;
+    height: 57px;
+    padding: 0;
+    border: 2px solid #F4C534;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fff;
+    align-self: flex-end;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    text-transform: uppercase;
+}

@@ -1,7 +1,37 @@
 .popup__table {
     color: #fff;
-    display: flex;
-    justify-content: center;
+    display: inline-block;
     overflow-y: scroll;
     height: 70%;
+    width: 95%;
+    text-align: center;
+    
+}
+
+.popup__table::-webkit-scrollbar { 
+    width: 3px; height: 3px;
+}
+
+.popup__table::-webkit-scrollbar-button { 
+    background-color: #fff; 
+}
+
+.popup__table::-webkit-scrollbar-track { 
+    background-color: #999;
+}
+
+.popup__table::-webkit-scrollbar-track-piece { 
+    background-color: #fff;
+}
+
+.popup__table::-webkit-scrollbar-thumb { 
+    height: 50px; background-color: #666; border-radius: 3px;
+}
+
+.popup__table::-webkit-scrollbar-corner { 
+    background-color: #999;
+}
+
+.popup__table::-webkit-resizer { 
+    background-color: #666;
 }

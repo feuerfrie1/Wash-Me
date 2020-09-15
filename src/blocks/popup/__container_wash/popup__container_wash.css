@@ -1,5 +1,5 @@
 .popup__container_wash {
-    display: block;
+    display: flex;
     width: 80vh;
     height: 80vh;
 }

@@ -6,4 +6,5 @@
     justify-content: center;
     display: flex;
     right: 0;
+    position: relative;
 }

@@ -15,15 +15,15 @@ function Services(props) {
         <p className="services__card-description services__card-description_wash">Автомойка <span className="services__card-arrow">&#8594;</span></p>
         </div>
         <div className="services__card">
-        <button className="services__button services__button_detail"></button>
+        <button className="services__button services__button_detail" onClick={props.onPopupDetailOpen}></button>
         <p className="services__card-description services__card-description_detail">Детейлинг <span className="services__card-arrow">&#8594;</span></p>
         </div>
         <div className="services__card">
-        <button className="services__button services__button_pasting">  </button>
+        <button className="services__button services__button_pasting" onClick={props.onPopupPastingOpen}></button>
         <p className="services__card-description services__card-description_pasting">Оклейка <span className="services__card-arrow">&#8594;</span></p>
         </div>
         <div className="services__card">
-        <button className="services__button services__button_tire">  </button>
+        <button className="services__button services__button_tire" onClick={props.onPopupTiresOpen}></button>
         <p className="services__card-description services__card-description_tire">Шиномонтаж <span className="services__card-arrow">&#8594;</span></p>
         </div>
       </div>

@@ -1,0 +1,13 @@
+.shares__polishing {
+    background-image: url('../../../images/polishing.png');
+    width: 560px;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    grid-column: 1;
+    align-self: baseline;
+    display: flex;
+    justify-self: center;
+    border: 2px solid #F4C534;
+}

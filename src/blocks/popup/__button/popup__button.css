@@ -1,0 +1,15 @@
+.popup__button {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #F4C534;
+    padding: 1em 6em;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 5%;
+}
+
+.popup__button:hover {
+    opacity: .6;
+    transition: .3s;
+}
