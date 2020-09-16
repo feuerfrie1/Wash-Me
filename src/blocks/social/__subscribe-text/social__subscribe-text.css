@@ -7,6 +7,12 @@
     text-transform: uppercase;
 }
 
+@media screen and (max-width: 1100px) {
+    .social__subscribe-text {
+        padding: 1em 3em;
+    }
+}
+
 .social__subscribe-text:hover {
     transition: .7s;
     font-weight: 500;

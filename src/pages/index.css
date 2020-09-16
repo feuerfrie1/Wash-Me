@@ -80,3 +80,11 @@
 @import url(../blocks/popup/__visit/popup__visit.css);
 @import url(../blocks/popup/__button/popup__button.css);
 @import url(../blocks/popup/__table-title/_detail/popup__table-title_detail.css);
+@import url(../blocks/services/__card/_detail/services__card_detail.css);
+@import url(../blocks/services/__card/_pasting/services__card_pasting.css);
+@import url(../blocks/services/__card/_tire/services__card_tire.css);
+@import url(../blocks/social/__link/social__link.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
+@import url(../blocks/header/__logo/_footer/header__logo_footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__services/footer__services.css);

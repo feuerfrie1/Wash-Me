@@ -2,3 +2,9 @@
     margin: 0;
     line-height: 22px;
 }
+
+@media screen and (max-width: 730px) {
+    .header__address {
+        display: none;
+    }
+}

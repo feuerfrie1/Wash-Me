@@ -4,3 +4,10 @@
     grid-column: 1/2;
     grid-row: 1/2;
 }
+
+@media screen and (max-width: 730px) {
+    .header__info {
+        justify-content: center;
+        display: grid;
+    }
+}

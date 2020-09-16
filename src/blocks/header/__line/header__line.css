@@ -4,3 +4,9 @@
     height: 652px;
     grid-column: 2/2;
 }
+
+@media screen and (max-width: 730px) {
+    .header__line {
+        display: none;
+    }
+}

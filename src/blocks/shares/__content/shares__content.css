@@ -7,3 +7,9 @@
     grid-template-columns: 50%;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 1278px) {
+    .shares__content {
+        justify-content: center;
+    }
+}

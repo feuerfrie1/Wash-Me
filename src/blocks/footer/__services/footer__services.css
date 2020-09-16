@@ -1,0 +1,9 @@
+.footer__services {
+
+}
+
+@media screen and (max-width: 480px) {
+    .footer__services {
+        display: none;
+    }
+}

@@ -1,0 +1,16 @@
+.services__card_pasting {
+    
+}
+
+@media screen and (max-width: 1439px) {
+    .services__card_pasting {
+        grid-column-start: 1;
+        grid-row-start: 2;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .services__card_pasting {
+        grid-row: 3;
+    }
+}

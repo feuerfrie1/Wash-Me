@@ -11,3 +11,23 @@
     justify-self: center;
     border: 2px solid #F4C534;
 }
+
+@media screen and (max-width: 1278px) {
+    .shares__polishing {
+        grid-column: 1/2;
+        grid-row: 2/2;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .shares__polishing {
+        width: 360px;
+        background-position: right;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .shares__polishing {
+        width: 250px;
+    }
+}

@@ -3,6 +3,24 @@
     text-align: center;
     grid-column: 1/2;
     grid-row: 1/2;
-    justify-self: flex-start;
-    width: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+@media screen and (max-width: 970px) {
+    .header__contacts {
+        display: flex;
+        flex-direction: column;
+        width: max-content;
+        justify-self: flex-start;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .header__contacts {
+        padding-top: 80px;
+        color: #FFF;
+    }
 }

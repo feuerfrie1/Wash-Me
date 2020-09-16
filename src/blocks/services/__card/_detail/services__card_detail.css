@@ -1,0 +1,17 @@
+.services__card_detail {
+
+}
+
+@media screen and (max-width: 1439px) {
+    .services__card_detail {
+        grid-column-start: 2;
+        grid-row-start: 2;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .services__card_detail {
+        grid-column-start: 1;
+        grid-row: 2;
+    }
+}

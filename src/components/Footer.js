@@ -33,7 +33,7 @@ function Footer() {
           <button className="footer__route"><a className="footer__route-link" href="yandexnavi://build_route_on_map?lat_to=37.558894&lon_to=55.731217">Построить маршрут</a></button>
           </div>
           <div className="footer__logo">  
-            <img className="header__logo" src={logo} alt="Логотип" />
+            <img className="header__logo header__logo_footer" src={logo} alt="Логотип" />
           </div>
         </div>
     </footer>

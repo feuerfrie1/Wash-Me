@@ -1,0 +1,21 @@
+.footer__contacts {
+
+}
+
+@media screen and (max-width: 800px) {
+    .footer__contacts {
+        grid-column: 2/2;
+        justify-self: end;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .footer__contacts {
+        align-content: center;
+        align-self: baseline;
+        grid-column: 1/2;
+        justify-self: end;
+        margin-top: 50px;
+        text-align: center;
+    }
+}

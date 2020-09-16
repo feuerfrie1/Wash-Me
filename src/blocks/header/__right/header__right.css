@@ -4,3 +4,19 @@
     justify-items: flex-end;
     padding-top: 50px;
 }
+
+@media screen and (max-width: 970px) {
+    .header__right {
+        padding-right: 20px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .header__right {
+        padding-right: 20px;
+        padding-top: 30px;
+        padding-left: 20px;
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+}

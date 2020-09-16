@@ -1,4 +1,9 @@
 .services__button_detail {
     background-image: url('../../../../images/car_detail.png');
-    margin-top: 50.5%;
 }
+
+@media screen and (max-width: 710px) {
+    .services__button_detail {
+        background-image: url('../../../../images/car_detail_mobile.png');
+    }
+ }

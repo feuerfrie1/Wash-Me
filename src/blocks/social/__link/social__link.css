@@ -1,5 +1,11 @@
 .social__link {
-    display: flex;
-    flex-direction: column;
     align-self: center;
+}
+
+@media screen and (max-width: 800px) {
+    .social__link {
+        display: inline-block;
+        text-align: center;
+        justify-self: center;
+    }
 }

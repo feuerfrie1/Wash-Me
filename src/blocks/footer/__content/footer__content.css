@@ -8,3 +8,16 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 800px) {
+    .footer__content {
+        display: grid;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .footer__content {
+        display: grid;
+        justify-content: center;
+    }
+}

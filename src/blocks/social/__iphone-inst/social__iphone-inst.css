@@ -2,4 +2,19 @@
     grid-column: 2/2;
     grid-row: 1/2;
     align-self: center;
+    width: inherit;
+}
+
+@media screen and (max-width: 1100px) {
+    .social__iphone-inst {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .social__iphone-inst {
+        width: inherit;
+        grid-column: 1/2;
+        grid-row: 2/2;
+    }
 }

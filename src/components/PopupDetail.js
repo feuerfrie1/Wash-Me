@@ -128,7 +128,7 @@ function PopupDetail(props) {
       </tbody>
   </table>
           <button className="popup__close popup__close_wash" onClick={props.onClose} />
-          <a href="" target="_blank" rel="noreferrer" class="popup__button">записаться</a>
+          <a href="" target="_blank" rel="noreferrer" className="popup__button">записаться</a>
         </div>
       </section>
     );

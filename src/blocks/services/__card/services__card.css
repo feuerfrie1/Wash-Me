@@ -3,6 +3,13 @@
     line-height: 13px;
     font-weight: 300;
     display: grid;
-    height: 580px;
     position: relative;
+    box-shadow: 0 0 5px black;
+    width: max-content;
+}
+
+@media screen and (max-width: 710px) {
+    .services__card {
+        grid-row: 1;
+    }
 }

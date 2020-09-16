@@ -11,3 +11,23 @@
     justify-self: center;
     border: 2px solid #F4C534;
 }
+
+@media screen and (max-width: 1278px) {
+    .shares__dry {
+        grid-column: 1/2;
+        grid-row: 3/3;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .shares__dry {
+        width: 360px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .shares__dry {
+        width: 250px;
+    }
+}
+

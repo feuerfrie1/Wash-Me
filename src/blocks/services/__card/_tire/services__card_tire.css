@@ -1,0 +1,9 @@
+.services__card_tire {
+
+}
+
+@media screen and (max-width: 710px) {
+    .services__card_tire {
+        grid-row: 4;
+    }
+}

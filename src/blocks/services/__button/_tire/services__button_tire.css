@@ -1,4 +1,9 @@
 .services__button_tire {
     background-image: url('../../../../images/car_tire.png');
-    margin-top: 147%;
 }
+
+@media screen and (max-width: 710px) {
+    .services__button_tire {
+        background-image: url('../../../../images/car_tire_mobile.png');
+    }
+ }

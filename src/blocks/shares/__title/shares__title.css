@@ -11,3 +11,16 @@
     height: 80px;
     width: max-content;
 }
+
+@media screen and (max-width: 1278px) {
+    .shares__title {
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .shares__title {
+        font-size: 52px;
+        line-height: 97px;
+    }
+}

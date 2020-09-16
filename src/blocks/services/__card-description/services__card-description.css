@@ -10,3 +10,9 @@
     cursor: pointer;
     position: absolute;
 }
+
+@media screen and (max-width: 930px) {
+    .services__card-description {
+        font-size: 17px;
+    }
+}

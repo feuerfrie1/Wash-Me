@@ -1,4 +1,9 @@
 .services__button_pasting {
     background-image: url('../../../../images/car_pasting.png');
-    margin-top: 98%;
 }
+
+@media screen and (max-width: 710px) {
+    .services__button_pasting {
+        background-image: url('../../../../images/car_pasting_mobile.png');
+    }
+ }

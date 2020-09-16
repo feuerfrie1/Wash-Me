@@ -1,0 +1,10 @@
+.footer__logo {
+    
+}
+
+@media screen and (max-width: 480px) {
+    .footer__logo {
+        justify-self: center;
+        display: block;
+    }
+}

@@ -9,16 +9,3 @@
     -moz-text-size-adjust: 100%;
     font-family: 'Roboto', Arial, sans-serif;
 }
-
-@media screen and (max-width: 920px) {
-    .page {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-}
-
-@media screen and (max-width: 400px) {
-    .page {
-        padding: 0;
-    }
-}

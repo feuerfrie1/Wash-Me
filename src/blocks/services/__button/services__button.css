@@ -8,6 +8,7 @@
     background-color: transparent;
     background-image: url('../../../images/car_wash.png');
     background-repeat: no-repeat;
+    background-position: center;
     cursor: pointer;
     text-transform: uppercase;
     color: #fff;
@@ -16,6 +17,29 @@
     grid-column-start: 1;
     grid-row-start: 1;
 }
+
+@media screen and (max-width: 1439px) {
+    .services__button {
+        height: 380px;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .services__button {
+        width: 205px;
+        height: 300px;
+    }
+}
+
+
+
+@media screen and (max-width: 710px) {
+    .services__button {
+        width: 282px;
+        height: 130px;
+        background-image: url('../../../images/car_wash_mobile.png');
+    }
+ }
 
 .services__button:hover {
     transition: 0.3s;
