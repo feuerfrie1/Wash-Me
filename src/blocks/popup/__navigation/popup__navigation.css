@@ -9,3 +9,9 @@
     z-index: 2;
     right: 0;
 }
+
+@media screen and (max-width: 760px) {
+    .popup__navigation {
+        width: 70%;
+    }
+}

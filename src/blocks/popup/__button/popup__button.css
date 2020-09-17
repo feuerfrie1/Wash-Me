@@ -9,6 +9,13 @@
     bottom: 5%;
 }
 
+@media screen and (max-width: 500px) {
+    .popup__button {
+        padding: 1em 3em;
+    }
+}
+
+
 .popup__button:hover {
     opacity: .6;
     transition: .3s;

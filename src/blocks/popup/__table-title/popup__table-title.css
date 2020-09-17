@@ -6,3 +6,15 @@
     font-weight: bold;
     text-align: left;    
 }
+
+@media screen and (max-width: 500px) {
+    .popup__table-title {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .popup__table-title {
+        font-size: 12px;
+    }
+}

@@ -12,10 +12,10 @@ function PopupDetail(props) {
       <tbody>
           <tr>
               <td className="popup__table-title popup__table-title_detail">Технический детейлинг</td>
-              <td><img className="popup__wash-className" src={firstClass}></img></td>
-              <td><img className="popup__wash-className" src={secondClass}></img></td>
-              <td><img className="popup__wash-className" src={thirdClass}></img></td>
-              <td><img className="popup__wash-className" src={fourthClass}></img></td>
+              <td><img className="popup__class" src={firstClass}></img></td>
+              <td><img className="popup__class" src={secondClass}></img></td>
+              <td><img className="popup__class" src={thirdClass}></img></td>
+              <td><img className="popup__class" src={fourthClass}></img></td>
           </tr>
           <tr className ="popup__description">
               <td>Локальня полировка</td>

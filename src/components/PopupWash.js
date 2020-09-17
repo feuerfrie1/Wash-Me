@@ -12,10 +12,10 @@ function PopupWash(props) {
 	<tbody>
 		<tr>
 			<td className="popup__table-title">кузов</td>
-			<td><img className="popup__wash-className" src={firstClass} alt="первый класс"></img></td>
-			<td><img className="popup__wash-className" src={secondClass} alt="второй класс"></img></td>
-			<td><img className="popup__wash-className" src={thirdClass} alt="третий класс"></img></td>
-			<td><img className="popup__wash-className" src={fourthClass} alt="четвёртый класс"></img></td>
+			<td><img className="popup__class" src={firstClass} alt="первый класс"></img></td>
+			<td><img className="popup__class" src={secondClass} alt="второй класс"></img></td>
+			<td><img className="popup__class" src={thirdClass} alt="третий класс"></img></td>
+			<td><img className="popup__class" src={fourthClass} alt="четвёртый класс"></img></td>
 		</tr>
 		<tr className ="popup__description">
 			<td>Мойка кузова "стандарт" (Двухфазная)</td>

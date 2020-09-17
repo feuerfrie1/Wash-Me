@@ -1,0 +1,10 @@
+.popup__class {
+
+}
+
+@media screen and (max-width: 500px) {
+    .popup__class {
+        width: 40px;
+    }
+}
+

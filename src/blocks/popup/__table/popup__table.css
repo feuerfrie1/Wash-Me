@@ -5,7 +5,12 @@
     height: 70%;
     width: 95%;
     text-align: center;
-    
+}
+
+@media screen and (max-width: 760px) {
+    .popup__table {
+        width: 100%;
+    }
 }
 
 .popup__table::-webkit-scrollbar { 

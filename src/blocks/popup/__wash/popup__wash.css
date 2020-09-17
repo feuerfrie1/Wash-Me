@@ -15,3 +15,10 @@
     -moz-box-shadow: 0px 0px 20px 0px rgba(244,197,52,0.75);
     box-shadow: 0px 0px 20px 0px rgba(244,197,52,0.75);
 }
+
+@media screen and (max-width: 760px) {
+    .popup__wash {
+        width: auto;
+        height: auto;
+    }
+}

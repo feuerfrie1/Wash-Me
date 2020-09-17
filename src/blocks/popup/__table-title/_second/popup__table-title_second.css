@@ -1,3 +1,15 @@
 .popup__table-title_second {
     padding-top: 30px;
 }
+
+@media screen and (max-width: 760px) {
+    .popup__table-title_second {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .popup__table-title_second {
+        font-size: 12px;
+    }
+}

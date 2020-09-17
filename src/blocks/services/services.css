@@ -6,3 +6,9 @@
     background-position: bottom;
     display: grid;
 }
+
+@media screen and (max-width: 374px) {
+    .services {
+        height: 140vh;
+    }
+}
