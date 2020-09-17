@@ -7,7 +7,7 @@
     display: grid;
 }
 
-@media screen and (max-width: 374px) {
+@media screen and (max-width: 425px) {
     .services {
         height: 140vh;
     }
