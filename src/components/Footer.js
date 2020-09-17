@@ -30,7 +30,7 @@ function Footer() {
           <h2 className="footer__title">Контакты</h2>
           <p className="footer__address">Саввинская наб., 25, стр. 1</p>
           <p className="footer__tel">+7 495 297-77-75</p>
-          <button className="footer__route"><a className="footer__route-link" href="yandexnavi://build_route_on_map?lat_to=55.7309&lon_to=37.55939">Построить маршрут</a></button>
+          <button className="footer__route"><a className="footer__route-link" href="yandexnavi://build_route_on_map?lat_to=55.70&lon_to=37.64">Построить маршрут</a></button>
           </div>
           <div className="footer__logo">  
             <img className="header__logo header__logo_footer" src={logo} alt="Логотип" />
